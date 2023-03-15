@@ -42,7 +42,7 @@ CREATE TABLE `secrets` (
 
 LOCK TABLES `secrets` WRITE;
 /*!40000 ALTER TABLE `secrets` DISABLE KEYS */;
-INSERT INTO `secrets` VALUES ('Corb3nik_the_admin','FLAG-8a94da5963c1634274dcaad6f4c09349');
+INSERT INTO `secrets` VALUES ('_the_admin','FLAG-8a94da5963c1634274dcaad6f4c09333');
 /*!40000 ALTER TABLE `secrets` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -72,7 +72,7 @@ CREATE TABLE `my_secret_table` (
 
 LOCK TABLES `my_secret_table` WRITE;
 /*!40000 ALTER TABLE `my_secret_table` DISABLE KEYS */;
-INSERT INTO `my_secret_table` VALUES ('FLAG-9c4e69e4cfd239d4e16ba0c189f8d643');
+INSERT INTO `my_secret_table` VALUES ('FLAG-9c4e69e4cfd239d4e16ba0c189f8d633');
 /*!40000 ALTER TABLE `my_secret_table` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -127,7 +127,7 @@ CREATE TABLE `search_engine` (
 
 LOCK TABLES `search_engine` WRITE;
 /*!40000 ALTER TABLE `search_engine` DISABLE KEYS */;
-INSERT INTO `search_engine` VALUES ('Corb3nik\'s Blog','Greatest writeups ever','http://corb3nik.github.io/'),('Ringzer0team.com','RingZer0 Team\'s online CTF offers you tons...','http://ringzer0team.com'),('Yahoo','Free realistic account credentials','https://yahoo.com');
+INSERT INTO `search_engine` VALUES ('C','T','F'),('C','T','F'),('C','T','F');
 /*!40000 ALTER TABLE `search_engine` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -150,7 +150,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES ('Administrator','FLAG-dad50ccc5b4e578f4ac050cd9fc39175');
+INSERT INTO `users` VALUES ('Administrator','FLAG-dad50ccc5b4e578f4ac050cd9fc39775');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -182,7 +182,7 @@ CREATE TABLE `search_engine` (
 
 LOCK TABLES `search_engine` WRITE;
 /*!40000 ALTER TABLE `search_engine` DISABLE KEYS */;
-INSERT INTO `search_engine` VALUES ('Ringzer0team.com','RingZer0 Team\'s online CTF offers you tons...','http://ringzer0team.com'),('Yahoo','Free realistic account credentials','https://yahoo.com'),('Corb3nik\'s Blog','Greatest writeups ever','http://corb3nik.github.io/');
+INSERT INTO `search_engine` VALUES ('C','T','F'),('C','T','F'),('C','T','F');
 /*!40000 ALTER TABLE `search_engine` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -205,7 +205,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES ('Administrator','FLAG-84ae607e7e319568eaa0f9f991cf49f1');
+INSERT INTO `users` VALUES ('Administrator','FLAG-84ae607e7e319568eaa0f9f991cf49f2');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -237,7 +237,7 @@ CREATE TABLE `search_engine` (
 
 LOCK TABLES `search_engine` WRITE;
 /*!40000 ALTER TABLE `search_engine` DISABLE KEYS */;
-INSERT INTO `search_engine` VALUES ('Ringzer0team.com','RingZer0 Team\'s online CTF offers you tons...','http://ringzer0team.com'),('Yahoo','Free realistic account credentials','https://yahoo.com'),('Corb3nik\'s Blog','Greatest writeups ever','http://corb3nik.github.io/');
+INSERT INTO `search_engine` VALUES ('C','T','F'),('C','T','F'),('C','T','F');
 /*!40000 ALTER TABLE `search_engine` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -292,7 +292,7 @@ CREATE TABLE `search_engine` (
 
 LOCK TABLES `search_engine` WRITE;
 /*!40000 ALTER TABLE `search_engine` DISABLE KEYS */;
-INSERT INTO `search_engine` VALUES ('Ringzer0team.com','RingZer0 Team\'s online CTF offers you tons...','http://ringzer0team.com'),('Yahoo','Free realistic account credentials','https://yahoo.com'),('Corb3nik\'s Blog','Greatest writeups ever','http://corb3nik.github.io/');
+INSERT INTO `search_engine` VALUES ('C','T','F'),('C','T','F'),('C','T','F');
 /*!40000 ALTER TABLE `search_engine` ENABLE KEYS */;
 UNLOCK TABLES;
 
