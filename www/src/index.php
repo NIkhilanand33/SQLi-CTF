@@ -5,7 +5,7 @@
     </head>
     <body>
         <div class="container-fluid">
-            <h1 class="text-center">Can you finish all these SQL injection challenges?</h1>
+            <h1 class="text-center">SYNOPSYS CTF - SQL CHALLENGES</h1>
         </div>
 
         <br>
@@ -17,11 +17,10 @@
         <div class="container-fluid">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Level 1</h3>
+                <h3 class="panel-title">Stage 1</h3>
               </div>
               <div class="panel-body">
-                My friend created a website where we can store secrets... Unfortunately, we can only see our own.
-                Help me find all of my friend's secrets.
+                Stage 1
               </div>
               <div class="panel-footer">
     <a href="/level1.php" target="_blank" class="btn btn-success">Start here</a>
@@ -35,10 +34,10 @@
         <div class="container-fluid">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Level 2</h3>
+                <h3 class="panel-title">Stage 2</h3>
               </div>
               <div class="panel-body">
-                I think an administrator blocked my account. Can you help me steal someone else's account?
+               Stage 2
     <br/>
     <br/>
     <strong>Note</strong>: There are <u>two</u> flags in this challenge.
@@ -54,11 +53,10 @@
         <div class="container-fluid">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Level 3 - The Blacklist Saga (Part 1)</h3>
+                <h3 class="panel-title">Stage 3</h3>
               </div>
               <div class="panel-body">
-                Time for bug bounties! This multinational technology company has been hacked so many times, we might be able
-                find a new bug and make some money out of it...
+              Stage 3
               </div>
          <div class="panel-footer">
     <a href="/level3.php" target="_blank" class="btn btn-warning">Start here</a>
@@ -71,10 +69,10 @@
         <div class="container-fluid">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Level 4 - The Blacklist Saga (Part 2)</h3>
+                <h3 class="panel-title">Stage 4</h3>
               </div>
               <div class="panel-body">
-                Seems like our previous bug has been patched now... Let's double check that they did their job properly.
+                Stage 4
               </div>
        <div class="panel-footer">
     <a href="/level4.php" target="_blank" class="btn btn-warning">Start here</a>
@@ -88,11 +86,10 @@
         <div class="container-fluid">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Level 5 - The Blacklist Saga (Part 3)</h3>
+                <h3 class="panel-title">Stage 5</h3>
               </div>
               <div class="panel-body">
-                These developers are sloppy... They claim that their website is secure now (for the second time),
-                I hope they are right this time...
+               Stage 5
               </div>
        <div class="panel-footer">
     <a href="/level5.php" target="_blank" class="btn btn-warning">Start here</a>
@@ -106,14 +103,10 @@
         <div class="container-fluid">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Level 6 - The Blacklist Saga (Part 4)</h3>
+                <h3 class="panel-title">Stage 6</h3>
               </div>
               <div class="panel-body">
-                I'm starting to believe that these developers are complete idiots. They just claimed that
-                blacklisting single-quotes and double-quotes solve every SQL injection issue.
-                <br>
-                <br>
-                Let's prove them wrong.
+              Stage 6
               </div>
        <div class="panel-footer">
     <a href="/level6.php" target="_blank" class="btn btn-danger">Start here</a>
@@ -126,11 +119,10 @@
         <div class="container-fluid">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Level 7</h3>
+                <h3 class="panel-title">Stage 7</h3>
               </div>
               <div class="panel-body">
-                My teacher has this weird website. I doubt there's any useful information
-                in the database. Maybe we can leak the /etc/passwd file instead?
+                Stage 7
               </div>
               <div class="panel-footer"><a href="/level7.php" target="_blank" class="btn btn-danger">Start here</a></div>
             </div>
